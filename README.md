@@ -131,8 +131,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 I'm the developer behind Developers Digest. If you find my work helpful or enjoy what I do, consider supporting me. Here are a few ways you can do that:
 
-- **Patreon**: Support me on Patreon at [patreon.com/DevelopersDigest](https://www.patreon.com/DevelopersDigest)
-
 - **Website**: Check out my website at [ahmedkhaled4d.com](https://ahmedkhaled4d.com)
 - **Github**: Follow me on GitHub at [github.com/ahmedkhaled4d](https://github.com/ahmedkhaled4d)
 - **Twitter**: Follow me on Twitter at [twitter.com/ahmedkhaled4d](https://twitter.com/ahmedkhaled4d)
